@@ -1,0 +1,2 @@
+map_server:rosaria:urg_node
+-DCATKIN_DEVEL_PREFIX=/home/cirlab/pioneer/devel -DCMAKE_INSTALL_PREFIX=/home/cirlab/pioneer/install -G Unix Makefiles
